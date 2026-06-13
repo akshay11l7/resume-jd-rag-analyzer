@@ -1,0 +1,73 @@
+=== PDF TEXT ===
+Priyanshu Ranjan
+ +91 8084344882
+# priyanshuranjan7856@gmail.com
+ï LinkedIn
+§ GitHub
+Ð LeetCode
+Ð Codeforces
+Ð LeetCode
+» CodeChef
+Education
+Birla Institute of Technology, Mesra
+2023 – 2027
+B.Tech in Computer Science & Engineering (AI & ML)
+CGPA:8.12/10
+Surendranath Centenary School,Ranchi
+2023
+Senior Secondary (CBSE) – 12th Grade
+Percentage: 89%
+Surendranath Centenary School,Ranchi
+2021
+Secondary (CBSE) – 10th Grade
+Percentage: 96%
+Experience
+Research Intern
+May 2026 – present
+BIT Mesra, Ranchi
+• Built a CNN-Transformer model for pre-apnea ECG classification on PhysioNet Apnea-ECG dataset, achieving 87%+
+accuracy and 92%+ sensitivity via 5-fold cross-validation.
+• Engineered sliding-window segmentation pipeline with Z-score normalization and class balancing to predict apnea events 45
+seconds before onset from single-lead ECG signals.
+• Optimized training with mixed precision and early stopping in PyTorch, cutting training time by ˜2x on GPU.
+Projects
+CloudIT – Cloud-Based File Sharing Application:
+Source Code
+• Built a scalable cloud-based file-sharing platform enabling secure uploads, link-based sharing, and efficient file management,
+designed for high availability using JWT authentication and Cloudinary integration.
+• Optimized backend APIs with Node.js and Express.js, achieving around faster local file transfer speeds through stream-based
+uploads and middleware optimization, with data protection via Bcrypt encryption.
+• Technologies: React.js, Node.js, Express.js, Tailwind CSS, JavaScript, JWT, Bcrypt, Cloudinary.
+SyncSpace – AI-Powered Real-Time Collaborative Whiteboard
+Source Code
+• Built a full-stack collaborative whiteboard with instant multi-user sync using Socket.io, React, and a Node.js backend.
+• Integrated Groq AI (LLaMA 3.3 70B) to generate architecture diagrams from prompts, converting JSON into Rough.js canvas
+elements in real time.
+• Implemented JWT authentication and socket-level authorization, ensuring only permitted users can access or edit shared boards.
+• Technologies: React.js, Node.js, Express.js, Socket.io, MongoDB, Rough.js, Groq API, JWT
+Skills
+• Languages: C++, Python, JavaScript, HTML
+• Frameworks & Libraries: Node.js, Express.js, ReactJS, Tailwind CSS
+• Tools/Platforms: Docker, Postman, GitHub, MongoDB
+• Relevant Coursework:Machine Learning, Data Structures, Computer Networks, Operating Systems, Object-Oriented
+Programming, Database Management Systems
+Competitions & Achievements
+• Solved 1000+ DSA problems on LeetCode,CodeChef and Codeforces, achieving a LeetCode max rating of 1754.
+• Rated 2 Star on CodeChef, achieving a global rank of 337 in STARTERS 237. [CodeChef Profile]
+• Secured Top 5 place in the IEEE Megaproject Hackathon- a flagship hackathon of IEEE BIT Mesra..
+• Secured a global rank of 3877 in a LeetCode Weekly Contest among 27,000+ participants.
+• Secured a global rank of 5947 in a Codeforces Div. 2 contest among 28,000+ participants.
+Honours and Awards
+• Secured State Rank 09 in the prestigious National Talent Search Examination (NTSE).
+• Achieved All India Rank 03 ,in Abacus Prodigy Competition , declared State Champion and City Topper among 10K+
+students nationwide.
+• Secured All India Rank under 50 in a National-level Painting Contest organized by HDFC.
+Position of Responsibility
+• Executive Member-IEEE BIT Mesra: Conducted a DSA workshop for 200+ students, introducing competitive
+programming and data structures fundamentals.
+
+=== DOCX TEXT ===
+AI Assistant
+Summary: A highly capable AI assistant.
+Experience
+Software Engineer at Deepmind

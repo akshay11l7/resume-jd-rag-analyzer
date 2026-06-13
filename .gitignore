@@ -5,3 +5,6 @@ __pycache__/
 data/resumes/
 data/jds/
 *.faiss
+venv/
+node_modules/
+.DS_Store
