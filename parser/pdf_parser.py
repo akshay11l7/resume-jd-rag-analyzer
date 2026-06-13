@@ -6,3 +6,9 @@ def parse_pdf(file_path: str) -> str:
     for page in doc:
         text += page.get_text()
     return text.strip()
+
+
+
+
+
+
